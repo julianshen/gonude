@@ -3,10 +3,9 @@
 
 About
 -----
-Nudity detection with Go. Port of `nude.js`_ and `nude.py`_ to Go.
+Nudity detection with Go. Port of `nude.js`(https://github.com/pa7/nude.js) and `nude.py`(https://github.com/hhatto/nude.py) to Go.
 
-.. _`nude.js`: https://github.com/pa7/nude.js
-.. _`nude.py`: https://github.com/hhatto/nude.py
+
 
 Installation
 ------------
